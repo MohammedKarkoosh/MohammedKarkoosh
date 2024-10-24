@@ -12,6 +12,11 @@ I’m passionate about technology and love creating projects. I’m working towa
 🔹 I enjoy collaborating with others and exploring new technologies.  
 🔹 Fluent in Arabic and English.
 
+
+## **Certificates:**
+- **Google Cybersecurity Certificate**
+- **Google AI Essentials**
+
 ### **Some Projects I have done:**
 - **Finance Tracking App**: A full-stack MERN application that tracks expenses, investments, and savings with data visualization using Chart.js.
 - **Notes Sharing App**: A Next.js project that allows users to share sticky notes and search for notes by keywords or hashtags.
@@ -32,6 +37,7 @@ I’m passionate about technology and love creating projects. I’m working towa
 
 ## 🌱 **I’m currently learning**:
 - Sharping all my skills with projects
+- Finishing up Google IT Support Certificate & Google UX/UI Certificate
 - Dabbling in React Native for mobile development
 - Improving my algorithmic problem-solving skills using LeetCode.
 
